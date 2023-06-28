@@ -1,3 +1,3 @@
 # stepik_course
 Homework 
-https://stepik.org/course/575/syllabus
+Здесь представлена ссылка на курс "Автоматизация тестирования с помощью Selenium и Python": https://stepik.org/course/575/syllabus
